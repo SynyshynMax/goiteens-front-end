@@ -25,8 +25,8 @@ console.log('================');
 
 //3 завдання
 
-console.log(Math.min(2, 34, 99, 3 , 22, 36, 733, 18));
-console.log(Math.max(2, 34, 99, 3 , 22, 36, 733, 18));
+console.log(Math.min(2, 34, 99, 3, 22, 36, 733, 18));
+console.log(Math.max(2, 34, 99, 3, 22, 36, 733, 18));
 
 console.log('================');
 
@@ -38,9 +38,9 @@ console.log('================');
 
 //5 завдання
 
-const result = 5+5+'5';
+const result = 5 + 5 + '5';
 console.log(result);
-console.log(typeof(result));
+console.log(typeof (result));
 
 console.log('================');
 
@@ -59,16 +59,16 @@ const w1 = "My";
 const w2 = "name";
 const w3 = "is";
 const w4 = "Victor";
-let fullname = (w1 + ' ' + w2 + ' ' +  w3)
+let fullname = (w1 + ' ' + w2 + ' ' + w3)
 console.log(fullname)
 let all = (fullname + ' ' + w4)
 console.log(all)
-console.log( w1 + ' ' + w2 + ' ' +  w3 + ' ' + w4); //Конкатинація
+console.log(w1 + ' ' + w2 + ' ' + w3 + ' ' + w4); //Конкатинація
 
 console.log('================')
 
 //8 завдання
 
-const userName = "den";
+const userName = "max";
 const payment = "300 гривень";
-alert(Дякуємо ,{userName}, !  До, сплати,  {payment})
+alert(Дякуємо, { userName }, !До, сплати, { payment })
